@@ -1,0 +1,19 @@
+[
+  {
+    "questionNo": "",
+    "question": "Which subtraction statements show<br> 5 - 3 = 2?",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+  ]
+  

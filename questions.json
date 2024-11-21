@@ -1,0 +1,30 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Find the total number of toys and fill in the answer in the empty box .",
+    "options":["","+","","=",""],
+    "answers": ["4","+","5","=","9"],
+    "secondImg":"./images/1.png"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Fill in the correct answer in the empty box.",
+    "options":["","-","","=",""],
+    "answers": ["9","-","3","=","6"],
+    "secondImg":"./images/2.png"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Add the given numbers and fill in the empty box to find the answer.",
+    "options":["10","+","5","=",""],
+    "answers": ["10","+","5","=","15"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Subtract and fill in the empty box to find the answer.",
+    "options":["13","-","9","=",""],
+    "answers": ["13","-","9","=","4"]
+  }
+]
